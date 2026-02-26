@@ -1,5 +1,5 @@
 {
-      "name": "Product Distribution Result",
+      "name": "WEB WEDDING",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -57,9 +57,6 @@
             "postcss": "^8.5.6",
             "tailwindcss": "^4.2.1",
             "vite": "6.3.5"
-      },
-      "engines": {
-      "node": "20.x"
       },
       "scripts": {
             "dev": "vite",
