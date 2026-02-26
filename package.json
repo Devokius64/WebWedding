@@ -58,8 +58,11 @@
             "tailwindcss": "^4.2.1",
             "vite": "6.3.5"
       },
+      "engines": {
+      "node": "20.x"
+      },
       "scripts": {
             "dev": "vite",
-            "build": "vite build"
+            "build": "npx vite build"
       }
 }
